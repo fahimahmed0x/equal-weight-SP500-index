@@ -1,0 +1,1 @@
+# equal-weight-SP500-index
